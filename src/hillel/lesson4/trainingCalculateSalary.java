@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-import static java.lang.Double.sum;
-
-public class HomeWork4CalculateSalary {
+public class trainingCalculateSalary {
     public static void main(String[] args) {
         Scanner salaryPerHour = new Scanner(System.in);
         Scanner taxRate = new Scanner(System.in);

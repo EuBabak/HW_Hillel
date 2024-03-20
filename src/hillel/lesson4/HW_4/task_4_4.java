@@ -1,4 +1,4 @@
-package hillel.lesson4;
+package hillel.lesson4.HW_4;
 
 public class task_4_4 {
     public static void main(String[] args) {

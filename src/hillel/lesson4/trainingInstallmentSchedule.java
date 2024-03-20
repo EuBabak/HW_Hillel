@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HomeWork4InstallmentSchedule {
+public class trainingInstallmentSchedule {
     public static void main(String[] args) {
 
         Scanner totalDebtAmount = new Scanner(System.in);
