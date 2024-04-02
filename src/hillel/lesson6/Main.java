@@ -23,6 +23,9 @@ public class Main {
         secondDog.eat(pedigree);
 
 
+//      приклади модифікаторів доступу
+        Food food = new Food();
+
 
 
     }
