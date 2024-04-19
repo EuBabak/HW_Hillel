@@ -1,9 +1,9 @@
 package hillel.lesson10.HW_9;
 
 public enum Size {
-    S("S",10,15),
-    M("M", 15,20),
-    XL("XL", 20,25);
+    S("S", 10, 15),
+    M("M", 15, 20),
+    XL("XL", 20, 25);
 
     private final String abbreviation;
     private final int width;
