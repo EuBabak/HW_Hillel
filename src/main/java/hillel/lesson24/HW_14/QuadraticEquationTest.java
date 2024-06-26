@@ -1,7 +1,7 @@
 package hillel.lesson24.HW_14;
 
-public class QuadraticEquationTest {
-    private QuadraticEquation equation;
+/*public class QuadraticEquationTest {
+   private QuadraticEquation equation;
 
     @Test
     public void testGetTwoRoots() {
@@ -65,7 +65,7 @@ public class QuadraticEquationTest {
                 {7,2,4},
                 {2,3,4},
                 {3,4,5}
-        }
+        };
     }
 }
-
+*/

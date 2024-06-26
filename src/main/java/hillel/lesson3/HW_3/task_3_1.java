@@ -11,6 +11,7 @@ public class task_3_1 {
         int number = scanner.nextInt();
 
         String evenOrOdd;
+
         if (number%2 ==0) {
             evenOrOdd = "even";
         }
