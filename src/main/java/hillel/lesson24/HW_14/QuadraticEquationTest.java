@@ -1,6 +1,9 @@
 package hillel.lesson24.HW_14;
 
-/*public class QuadraticEquationTest {
+import org.junit.Assert;
+import org.junit.Test;
+
+public class QuadraticEquationTest {
    private QuadraticEquation equation;
 
     @Test
@@ -68,4 +71,4 @@ package hillel.lesson24.HW_14;
         };
     }
 }
-*/
+
