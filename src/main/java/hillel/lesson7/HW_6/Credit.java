@@ -20,6 +20,7 @@ public class Credit {
         double monthlyInterestRate = interestRate / 100 / 12;
         return (amount * monthlyInterestRate) / (1 - Math.pow (1 + monthlyInterestRate, -durationMonth));
     }
+
     public String getBorrowName() {
         return borrowName;
     }

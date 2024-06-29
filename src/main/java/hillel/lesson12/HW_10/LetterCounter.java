@@ -1,5 +1,7 @@
 package hillel.lesson12.HW_10;
 
+import lombok.Getter;
+
 import java.util.HashMap;
 import java.util.Map;
 

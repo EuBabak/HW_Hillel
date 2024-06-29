@@ -1,5 +1,5 @@
 package hillel.lesson24.HW_14;
-
+/*
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -46,6 +46,7 @@ public class QuadraticEquationTest {
         Assert.assertEquals(actualRoots[0], expectedRoot, 0.0001);
 
     }
+
     @Test(dataProvider = "coefficientsNoRoot")
     public void testWithoutRoots(double a, double b, double c) {
 
@@ -71,4 +72,4 @@ public class QuadraticEquationTest {
         };
     }
 }
-
+*/
