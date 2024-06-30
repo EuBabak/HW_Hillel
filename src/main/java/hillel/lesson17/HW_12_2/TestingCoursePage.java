@@ -24,7 +24,7 @@ public class TestingCoursePage extends BasePage implements Course {
                 .stream()
                 .map(item -> PageFactory.initElements(item, BlockProfessionItem.class))
                 .toList();
-
+    }
 
     @Override
     public List<BlockProfessionItem> getCourses() {
@@ -35,18 +35,6 @@ public class TestingCoursePage extends BasePage implements Course {
         }
         return courses;
     }
-
-
-    @Override
-    public List<BlockProfessionItem> getAdditionalCourses() {
-        return List.of();
-    }
-
-    @Override
-    public List<String> getOpportunities() {
-        return List.of();
-    }
-
 
     public <T extends Course> T goToCategory(String category) {
         T coursePage = null;
